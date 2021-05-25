@@ -1,0 +1,1 @@
+require('./compile-my-plugin');
