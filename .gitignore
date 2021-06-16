@@ -9,6 +9,8 @@
 *.iml
 *.iws
 
+/node_modules/
+./simplepack/node_modules
 # temp ignore
 *.log
 *.cache
